@@ -1,0 +1,8 @@
+Per te hapur faqen duhet qe te vendoset folderi i ekstratuar 'explorelibrazhd' ne folderin 'htdocs' te XAMPP-it.
+Me pas mund te ekzekutohet duke perdorur nje web browser sipas deshires.
+Vendosim ne search box-in e browser-it:
+http://localhost/explorelibrazhd/
+
+Me pas per tu futur ne faqen e administratorit duhet futur:
+Email: admin@admin.com
+Password:programimweb
